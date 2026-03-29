@@ -1,0 +1,5 @@
+{
+  "name": "首利抽獎小幫手",
+  "description": "專業的活動抽籤與分組工具，支援 CSV 匯入、重複偵測與結果下載。",
+  "requestFramePermissions": []
+}
